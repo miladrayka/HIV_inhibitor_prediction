@@ -7,7 +7,7 @@ PyTorch, Torch_geometric and Rdkit libraries are used and all details about inst
 
 Caution: 
 
-GNNs are really senstive to hyperparameters. So fine-tuning them can be improved my proposed model.
+GNNs are really senstive to hyperparameters. So fine-tuning them can improve my proposed model.
 
 I hope this simple tutorial about molecular property prediction can be helpful for you.  
 
